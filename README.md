@@ -1,5 +1,5 @@
 # Python
-Here is the python script which creates a user interactive dashboard using Plotly library. Attched python script does the following:
+Here is the python script which creates a user interactive dashboard using Plotly library. Attached python script does the following:
 a) creates an ODBC connection with MySQL database
 b) using python dash library, creates interactive dropdown filters to select the required metrics or attributes
 c) creates Scatter chart across the selected measures and dimension
